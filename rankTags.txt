@@ -1,0 +1,25 @@
+Tags                          Ranking
+python                        12
+flask                         9
+web application               8
+django                        5
+api                           5
+website                       2
+rest api                      1
+backend                       1
+responsive                    1
+programme                     1
+web sites                     1
+web programming               1
+web development               1
+bug                           1
+mssql                         1
+python django                 1
+make website                  1
+website dev                   1
+programmer                    1
+django websites               1
+flask website                 1
+flask api                     1
+flask app                     1
+django rest api               1
